@@ -4,6 +4,11 @@ OptCare is an AI-powered web platform that analyzes OCT scans using deep learnin
 
 ## Technologies Used
 
+**Frameworks & Languages**
+- Laravel (PHP) – Web application & backend logic  
+- Flask (Python) – AI backend & OCT scan analysis  
+- Python – Machine learning & CNN model development  
+
 **Frontend Tools**
 - Laravel Blade – Dynamic templating  
 - Bootstrap 5 – Responsive design  
