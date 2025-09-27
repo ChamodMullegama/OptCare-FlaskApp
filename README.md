@@ -36,5 +36,5 @@ OptCare is an AI-powered web platform that analyzes OCT scans using deep learnin
 3. Create a virtual environment
 4. Install dependencies
 5. Start the Flask server - `python app.py`
-6. Run the Laravel web application in laravel project - `php artisan serve` -"https://github.com/ChamodMullegama/personality-prediction"
+6. Run the Laravel web application in laravel project - `php artisan serve` -"https://github.com/ChamodMullegama/OptCare"
 
